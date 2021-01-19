@@ -33,7 +33,7 @@ IOU 和 dice score 常用在影像切割的表現指標上。Dice score, 根據 
 Dice命名，是一種集合相似度度量函數，通常用於計算兩個樣本的相似度:
 
 <img src='./static/dice.PNG' style="display:block; margin:auto; margin-top:10px"/>
-<img src='./static/IOU_image.PNG' style="display:block; margin:auto; margin-top:20px; margin-bottom:20px; width:50%"/>
+<img src='./static/IOU_image.png' style="display:block; margin:auto; margin-top:20px; margin-bottom:20px; width:50%"/>
 
 Intersection over Union(IOU)則是一種測量在特定數據集中檢測相應物體準確度的一個標
 準。
